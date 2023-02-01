@@ -85,9 +85,6 @@
 		"LoadExtensionSchemaUpdates": [
 			"IncidentReportingHooks::onLoadExtensionSchemaUpdates"
 		],
-		"PageBeforeDisplay": [
-			"IncidentReportingHooks::onPageBeforeDisplay"
-		]
 	},
 	"ConfigRegistry": {
 		"incidentreporting": "GlobalVarConfig::newInstance"
